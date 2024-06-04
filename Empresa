@@ -1,0 +1,3 @@
+git init 
+git commit  "primer repositorio" 
+git remote add origin [//github.com/NarutoIce/Trabajo-TFG. git] 
